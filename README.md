@@ -1,4 +1,4 @@
 SmartLog
 ========
 
-- **Description:** SmartLog is a Home Energy Management System based on Raspberry Pi and Arduino Hardware
+- **Description:** SmartLog is a Home Energy Management System built on Raspberry Pi and Arduino Hardware
