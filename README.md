@@ -11,3 +11,9 @@ SmartLog
 - **Track Energy Usage:** SmartLog tracks energy usage from your average "smart meter" and graphs results.
 
 ---
+
+![Alt text](images/smartlog_graph1.jpg "track power usage in real time")
+
+---
+
+![Alt text](images/smartlog_graph3.jpg "Track daily peak and off peak energy usage")
